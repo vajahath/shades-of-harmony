@@ -1,2 +1,1 @@
-# shades-of-harmony
-theme
+> This package is in Beta :syringe:
