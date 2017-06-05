@@ -1,7 +1,6 @@
 # Change Log
 All notable changes to the "shades-of-harmony" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-- Initial release
+## [1.0.0] - 2017-06-05
+### Added
+- Initial Release
