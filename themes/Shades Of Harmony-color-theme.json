@@ -2,11 +2,11 @@
 	"tokenColors": "./shades-of-harmony.tmTheme",
 	"colors": {
 		"editor.background": "#242527",
-		"editorCursor.foreground": "#D6D6D6",
+		"editorCursor.foreground": "#c3ff00",
 		"editor.foreground": "#bbbbbb",
 		"editorWhitespace.foreground": "#A5A5A552",
 		"editor.lineHighlightBackground": "#303030",
-		"editor.selectionBackground": "#f07966",
+		"editor.selectionBackground": "#88341055",
 		"editorIndentGuide.background": "#ffffff10"
 	},
 	"name": "Shades Of Harmony"

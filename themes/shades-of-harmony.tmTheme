@@ -16,7 +16,7 @@
 				<key>background</key>
 				<string>#242527</string>
 				<key>caret</key>
-				<string>#D6D6D6</string>
+				<string>#c3ff00</string>
 				<key>foreground</key>
 				<string>#bbbbbb</string>
 				<key>invisibles</key>
@@ -24,7 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#303030</string>
 				<key>selection</key>
-				<string>#f07966</string>
+				<string>#88341055</string>
 				<key>selectionForeground</key>
 				<string>#242527</string>
 				<key>guide</key>
