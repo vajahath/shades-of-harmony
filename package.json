@@ -1,36 +1,34 @@
 {
-    "name": "shades-of-harmony",
-    "displayName": "Shades Of Harmony",
-    "description": "A Simple Color Scheme Crafted With Love And ES6 In Mind",
-    "version": "1.0.0",
-    "publisher": "vajahath-ahmed",
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    license: "MIT",
-    icon: "",
-    bugs: {
-        "url": "https://github.com/vajahath/shades-of-harmony/issues"
-    },
-    homepage: "https://github.com/vajahath/shades-of-harmony/blob/master/README.md",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/vajahath/shades-of-harmony.git"
-    },
-    "galleryBanner" : {
-        "color": "#2d2924",
-        "theme" : "dark"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Shades Of Harmony",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Shades Of Harmony-color-theme.json"
-            }
-        ]
-    }
+	"name": "shades-of-harmony",
+	"displayName": "Shades Of Harmony",
+	"description": "A simple color scheme crafted with love and ES6 in mind.",
+	"version": "1.0.0",
+	"publisher": "vajahath-ahmed",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"license": "MIT",
+	"icon": "",
+	"bugs": {
+		"url": "https://github.com/vajahath/shades-of-harmony/issues"
+	},
+	"homepage": "https://github.com/vajahath/shades-of-harmony/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vajahath/shades-of-harmony.git"
+	},
+	"galleryBanner": {
+		"color": "#490712",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [{
+			"label": "Shades Of Harmony",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Shades Of Harmony-color-theme.json"
+		}]
+	}
 }
