@@ -8,7 +8,7 @@
 		"vscode": "^1.0.0"
 	},
 	"license": "MIT",
-	"icon": "./media/icon.gif",
+	"icon": "media/icon.gif",
 	"bugs": {
 		"url": "https://github.com/vajahath/shades-of-harmony/issues"
 	},
