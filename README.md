@@ -1,7 +1,9 @@
 # Shades of Harmony
 
+Color Scheme For [Visual Studio Code](https://code.visualstudio.com/)
+
 > _"Harmony makes small things glow"_
->   - anonymous
+>                                   - anonymous
 
 ### Preview
 Recommended font: [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)<br><br>
