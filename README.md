@@ -2,8 +2,7 @@
 
 Color Scheme For [Visual Studio Code](https://code.visualstudio.com/)
 
-> _"Harmony makes small things glow"_
->                                   - anonymous
+> _"Harmony makes small things glow"_  - anonymous
 
 ### Preview
 Recommended font: [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)<br><br>
@@ -24,7 +23,8 @@ Recommended font: [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)<b
 
 ### About
 Crafted with love by [Vajahath Ahmed](https://twitter.com/vajahath7). Inspired from [FrontEnd-Delight](https://github.com/bernatfortet/sublime-frontend-delight).<br>
-_[This package has no relation to any orgs with the same name.]_
+_[This package has no relation to any orgs with the same name.]_<br>
+Icon borrowed from [MikaelGustafsson](https://dribbble.com/MikaelGustafsson).
 
 ### Licence
 MIT &copy; [Vajahath Ahmed](https://twitter.com/vajahath7)

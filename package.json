@@ -8,7 +8,7 @@
 		"vscode": "^1.0.0"
 	},
 	"license": "MIT",
-	"icon": "",
+	"icon": "./media/icon.gif",
 	"bugs": {
 		"url": "https://github.com/vajahath/shades-of-harmony/issues"
 	},
@@ -18,7 +18,7 @@
 		"url": "https://github.com/vajahath/shades-of-harmony.git"
 	},
 	"galleryBanner": {
-		"color": "#490712",
+		"color": "#0d0121",
 		"theme": "dark"
 	},
 	"categories": [
