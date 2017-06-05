@@ -78,7 +78,7 @@
 			<key>name</key>
 			<string>This</string>
 			<key>scope</key>
-			<string>variable.language.this.js</string>
+			<string>variable.language.this.js, support.constant.json.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -296,7 +296,7 @@
 			<key>name</key>
 			<string>Constant Numeric</string>
 			<key>scope</key>
-			<string>constant.numeric</string>
+			<string>constant.numeric, string.regexp.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
