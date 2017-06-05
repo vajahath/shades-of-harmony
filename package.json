@@ -1,11 +1,25 @@
 {
     "name": "shades-of-harmony",
     "displayName": "Shades Of Harmony",
-    "description": "Crafted with love by Vajahath Ahmed",
-    "version": "0.0.1",
+    "description": "A Simple Color Scheme Crafted With Love And ES6 In Mind",
+    "version": "1.0.0",
     "publisher": "vajahath-ahmed",
     "engines": {
-        "vscode": "^1.12.0"
+        "vscode": "^1.0.0"
+    },
+    license: "MIT",
+    icon: "",
+    bugs: {
+        "url": "https://github.com/vajahath/shades-of-harmony/issues"
+    },
+    homepage: "https://github.com/vajahath/shades-of-harmony/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vajahath/shades-of-harmony.git"
+    },
+    "galleryBanner" : {
+        "color": "#2d2924",
+        "theme" : "dark"
     },
     "categories": [
         "Themes"
