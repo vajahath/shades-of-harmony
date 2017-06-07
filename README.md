@@ -2,6 +2,8 @@
 
 Color Scheme For [Visual Studio Code](https://code.visualstudio.com/)
 
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+
 > _"Harmony makes small things glow"_  - anonymous
 
 ### Preview
