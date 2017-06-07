@@ -2,18 +2,14 @@
 
 Color Scheme For [Visual Studio Code](https://code.visualstudio.com/)
 
-[![VS Marketplace](https://vsmarketplacebadge.apphb.com/version/vajahath-ahmed.shades-of-harmony.svg)](https://marketplace.visualstudio.com/items?itemName=vajahath-ahmed.shades-of-harmony)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/vajahath-ahmed.shades-of-harmony.svg)](https://marketplace.visualstudio.com/items?itemName=vajahath-ahmed.shades-of-harmony)
-[![Build Status](https://travis-ci.org/vajahath/shades-of-harmony.svg?branch=master)](https://travis-ci.org/vajahath/shades-of-harmony)
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
-[![Chat at https://gitter.im/shades-of-harmony/Lobby](https://badges.gitter.im/vscode-gitlens/Lobby.svg)](https://gitter.im/shades-of-harmony/Lobby)
-[![Greenkeeper badge](https://badges.greenkeeper.io/vajahath/shades-of-harmony.svg)](https://greenkeeper.io/)
+[![VS Marketplace](https://vsmarketplacebadge.apphb.com/version/vajahath-ahmed.shades-of-harmony.svg)](https://marketplace.visualstudio.com/items?itemName=vajahath-ahmed.shades-of-harmony) [![Installs](https://vsmarketplacebadge.apphb.com/installs/vajahath-ahmed.shades-of-harmony.svg)](https://marketplace.visualstudio.com/items?itemName=vajahath-ahmed.shades-of-harmony) [![Build Status](https://travis-ci.org/vajahath/shades-of-harmony.svg?branch=master)](https://travis-ci.org/vajahath/shades-of-harmony) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![Chat at https://gitter.im/shades-of-harmony/Lobby](https://badges.gitter.im/vscode-gitlens/Lobby.svg)](https://gitter.im/shades-of-harmony/Lobby)
+<br>[![Greenkeeper badge](https://badges.greenkeeper.io/vajahath/shades-of-harmony.svg)](https://greenkeeper.io/)
 [![PayPal][badge_paypal_donate]][paypal-donations]
 
 > _"Harmony makes small things glow"_  - anonymous
 
 ### Preview
-Recommended font: [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
+Recommended font: [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)<br>
 Recommended icons: [Vscode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)<br><br>
 ![preview](https://github.com/vajahath/shades-of-harmony/blob/master/media/shades%201.png?raw=true)
 
