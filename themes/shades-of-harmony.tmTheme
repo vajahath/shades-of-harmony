@@ -16,7 +16,7 @@
 				<key>background</key>
 				<string>#242527</string>
 				<key>caret</key>
-				<string>#D6D6D6</string>
+				<string>#c3ff00</string>
 				<key>foreground</key>
 				<string>#bbbbbb</string>
 				<key>invisibles</key>
@@ -24,7 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#303030</string>
 				<key>selection</key>
-				<string>#f07966</string>
+				<string>#88341055</string>
 				<key>selectionForeground</key>
 				<string>#242527</string>
 				<key>guide</key>
@@ -34,15 +34,57 @@
 
 		<dict>
 			<key>name</key>
-			<string>Comment</string>
+			<string>Comment Double Slash</string>
 			<key>scope</key>
-			<string>comment, string.comment.buffered.block.jade</string>
+			<string>comment.line.double-slash.js,comment.block.documentation.js,string.comment.buffered.block.jade</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#70B880</string>
+				<string>#64ba6add</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Comment Block Slash</string>
+			<key>scope</key>
+			<string>comment.block.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#7a7a7a</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>keyword control flow</string>
+			<key>scope</key>
+			<string>keyword.control.flow.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#00b282</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>This</string>
+			<key>scope</key>
+			<string>variable.language.this.js, support.constant.json.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#ff265e</string><!-- #bf0032#00b282 -->
 			</dict>
 		</dict>
 
@@ -116,21 +158,21 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#98FF00</string>
+				<string>#79E700</string>
 			</dict>
 		</dict>
 
 		<dict>
 			<key>name</key>
-			<string>Support Function Dom</string>
+			<string>Support Function</string>
 			<key>scope</key>
 			<string>support.function.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#FFF</string>
+				<string>#a39a99</string>
 			</dict>
 		</dict>
 
@@ -230,7 +272,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#81AB51</string>
+				<string>#FFF</string>
 			</dict>
 		</dict>
 
@@ -254,7 +296,7 @@
 			<key>name</key>
 			<string>Constant Numeric</string>
 			<key>scope</key>
-			<string>constant.numeric</string>
+			<string>constant.numeric, string.regexp.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -282,7 +324,7 @@
 			<key>name</key>
 			<string>Punctuation / Delimitation / Separation </string>
 			<key>scope</key>
-			<string>punctuation.definition.parameters, meta.brace, meta.delimiter, punctuation.terminator.expression.php, source.php.embedded.block.html, keyword.operator.class.php </string>
+			<string>punctuation.definition.block.js, punctuation.definition.parameters, meta.brace, meta.delimiter, punctuation.terminator.expression.php, source.php.embedded.block.html, keyword.operator.class.php </string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
