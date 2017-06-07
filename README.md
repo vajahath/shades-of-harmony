@@ -37,10 +37,7 @@ Icon borrowed from [MikaelGustafsson](https://dribbble.com/MikaelGustafsson).
 
 ### Licence
 MIT &copy; [Vajahath Ahmed](https://twitter.com/vajahath7)
-<<<<<<< HEAD
 
 
 [badge_paypal_donate]: https://cdn.rawgit.com/vajahath/cloud-codes/a01f087f/badges/paypal_donate.svg
 [paypal-donations]: https://paypal.me/vajahath
-=======
->>>>>>> cce21c36601f1bdaf800f548d84685223fbce4be
