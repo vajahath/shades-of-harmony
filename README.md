@@ -6,6 +6,7 @@ Color Scheme For [Visual Studio Code](https://code.visualstudio.com/)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/vajahath-ahmed.shades-of-harmony.svg)](https://marketplace.visualstudio.com/items?itemName=vajahath-ahmed.shades-of-harmony)
 [![Build Status](https://travis-ci.org/vajahath/shades-of-harmony.svg?branch=master)](https://travis-ci.org/vajahath/shades-of-harmony)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+[![Greenkeeper badge](https://badges.greenkeeper.io/vajahath/shades-of-harmony.svg)](https://greenkeeper.io/)
 
 > _"Harmony makes small things glow"_  - anonymous
 
