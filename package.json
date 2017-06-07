@@ -25,10 +25,15 @@
 		"Themes"
 	],
 	"contributes": {
-		"themes": [{
-			"label": "Shades Of Harmony",
-			"uiTheme": "vs-dark",
-			"path": "./themes/Shades Of Harmony-color-theme.json"
-		}]
+		"themes": [
+			{
+				"label": "Shades Of Harmony",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Shades Of Harmony-color-theme.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"xo": "^0.18.2"
 	}
 }
