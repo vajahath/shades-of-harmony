@@ -7,8 +7,8 @@ Color Scheme For [Visual Studio Code](https://code.visualstudio.com/)
 [![Build Status](https://travis-ci.org/vajahath/shades-of-harmony.svg?branch=master)](https://travis-ci.org/vajahath/shades-of-harmony)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 [![Chat at https://gitter.im/shades-of-harmony/Lobby](https://badges.gitter.im/vscode-gitlens/Lobby.svg)](https://gitter.im/shades-of-harmony/Lobby)
-[![PayPal][badge_paypal_donate]][paypal-donations]
 [![Greenkeeper badge](https://badges.greenkeeper.io/vajahath/shades-of-harmony.svg)](https://greenkeeper.io/)
+[![PayPal][badge_paypal_donate]][paypal-donations]
 
 > _"Harmony makes small things glow"_  - anonymous
 
