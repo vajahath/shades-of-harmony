@@ -36,13 +36,13 @@
 			<key>name</key>
 			<string>Comment Double Slash</string>
 			<key>scope</key>
-			<string>comment.line.double-slash.js,comment.block.documentation.js,string.comment.buffered.block.jade</string>
+			<string>comment.line.double-slash.js,comment.line.double-slash.tsx,comment.block.documentation.js,string.comment.buffered.block.jade</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#64ba6add</string>
+				<string>#5F5F5F</string>
 			</dict>
 		</dict>
 
@@ -56,7 +56,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#7a7a7a</string>
+				<string>#5F5F5F</string>
 			</dict>
 		</dict>
 
@@ -278,6 +278,20 @@
 
 		<dict>
 			<key>name</key>
+			<string>String Template Expression Storage Constant</string>
+			<key>scope</key>
+			<string>variable.other.constant.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#C9C4B3</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
 			<string>string.template.js, string.quoted.double.css, string.quoted.double.js, variable.parameter.url, string.quoted.jade, string.quoted.single.js, string.quoted.double.attribute-value.css, string.quoted.double.ruby, string.quoted.single.ruby, string.quoted.single.coffee, string.quoted.double.coffee, meta.string-contents.quoted.double.php, string.quoted.double.php, string.quoted.single.php, meta.string-contents.quoted.single.php, string.quoted.variable.parameter.url, string.quoted.single.css, string.quoted.single.css 
@@ -287,7 +301,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#FC0</string>
+				<string>#F0BD16</string>
 			</dict>
 		</dict>
 
@@ -324,13 +338,27 @@
 			<key>name</key>
 			<string>Punctuation / Delimitation / Separation </string>
 			<key>scope</key>
-			<string>punctuation.definition.block.js, punctuation.definition.parameters, meta.brace, meta.delimiter, punctuation.terminator.expression.php, source.php.embedded.block.html, keyword.operator.class.php </string>
+			<string>punctuation.terminator.statement.js,punctuation.separator.comma.js,punctuation.definition.block.js, punctuation.definition.parameters, meta.brace, meta.delimiter, punctuation.terminator.expression.php, source.php.embedded.block.html, keyword.operator.class.php </string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
 				<string>#ffffff30</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Shebang</string>
+			<key>scope</key>
+			<string>comment.line.shebang.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#137761</string>
 			</dict>
 		</dict>
 
@@ -446,7 +474,7 @@
 			<key>name</key>
 			<string>JS Boolean</string>
 			<key>scope</key>
-			<string>constant.language.boolean.false.js, constant.language.boolean.true.js, constant.language.null.js</string>
+			<string>constant.language.boolean.false.js, constant.language.boolean.true.js, constant.language.null.js,constant.language.undefined.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
