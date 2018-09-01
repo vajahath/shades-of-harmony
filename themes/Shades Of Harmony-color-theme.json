@@ -24,9 +24,9 @@
     "editorGroup.background": "#0f0c08",
     "tab.inactiveBackground": "#131510",
     "titleBar.activeBackground": "#0f0f0f",
-    "statusBar.background": "#184930",
+    "statusBar.background": "#091c12",
     "statusBar.debuggingBackground": "#ff3300",
-    "statusBar.noFolderBackground": "#001b22",
+    "statusBar.noFolderBackground": "#091c12",
     "activityBar.background": "#141414",
     "activityBar.foreground": "#b8b8b8",
     "sideBar.background": "#0a0a0a",
@@ -77,7 +77,7 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#171c1a"
+        "foreground": "#21302a"
       }
     },
     {
