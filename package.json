@@ -1,8 +1,8 @@
 {
 	"name": "shades-of-harmony",
 	"displayName": "Shades Of Harmony",
-	"description": "A simple color theme crafted with love and ES6 in mind.",
-	"version": "1.1.0",
+	"description": "A simple color theme crafted with love.",
+	"version": "1.2.0",
 	"publisher": "vajahath-ahmed",
 	"engines": {
 		"vscode": "^1.0.0"
@@ -12,8 +12,7 @@
 	"bugs": {
 		"url": "https://github.com/vajahath/shades-of-harmony/issues"
 	},
-	"homepage":
-		"https://github.com/vajahath/shades-of-harmony/blob/master/README.md",
+	"homepage": "https://github.com/vajahath/shades-of-harmony/blob/master/README.md",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/vajahath/shades-of-harmony.git"
